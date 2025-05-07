@@ -7,4 +7,4 @@ I'm Raj Pandit, an aspiring Software Developer from West Bengal, India, with a s
 I'm currently diving deep into Java, building a solid foundation in object-oriented programming, data structures, and backend development.
 
 ## 💻 Tech Stacks / Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,java,idea,vscode,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,java,markdown,bootstrap,idea,vscode,mysql,git,github,powershell&theme=light)](https://skillicons.dev)
