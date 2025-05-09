@@ -7,4 +7,4 @@ I'm Raj Pandit, an aspiring Software Developer from West Bengal, India, with a s
 I'm currently focusing on mastering C, C++, and Data Structures & Algorithms (DSA) to strengthen my problem-solving abilities and core programming foundations.
 
 ## 💻 Tech Stacks / Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=c,c++,vscode,windows,powershell&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,vscode,windows,powershell&theme=light)](https://skillicons.dev)
